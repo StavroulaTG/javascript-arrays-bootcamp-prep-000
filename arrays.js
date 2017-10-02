@@ -10,3 +10,6 @@ function destructivelyAddElementToBeginningOfArray (chocolateBars){
 function addElementToEndOfArray (chocolateBars){
   return [...chocolateBars, 'foo']
 }
+function destructivelyAddElementToEndOfArray(chocolateBars) {
+  return [...chocolateBars, 'foo']
+}
