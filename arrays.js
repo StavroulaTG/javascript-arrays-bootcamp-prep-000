@@ -7,4 +7,3 @@ function destructivelyAddElementToBeginningOfArray (chocolateBars){
   chocolateBars.unshift
   return chocolateBars
 }
-
