@@ -20,3 +20,6 @@ function destructivelyAddElementToEndOfArray (chocolateBars) {
 function accessElementInArray (chocolateBars, kitkat) {
   return chocolateBars[2]
 }
+function destructivelyRemoveElementFromBeginningOfArray (chocolateBars) {
+  return chocolateBars.shift()
+}
